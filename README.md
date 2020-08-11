@@ -1,3 +1,54 @@
+Tạo project có luồng thông báo readtime.
+
+Tìm hiểu về socketio, cách hoạt động. Áp dụng vào laravel.
+Thực hiện bởi :Nguyễn Mạnh Tiến
+
+Liên kết sử dụng: https://viblo.asia/p/ung-dung-chat-voi-laravel-redis-va-socketio-7rVRqp2qv4bP
+
+Kiến thức nắm được: - Cách gửi và nhận từ server.
+                    
+
+Todo Sử dụng để tạo chat readtime và thông báo readtime.
+
+Credit Elasticsearch,xampp,sublime Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
