@@ -6,11 +6,13 @@ Thực hiện bởi :Nguyễn Mạnh Tiến
 Liên kết sử dụng: https://viblo.asia/p/ung-dung-chat-voi-laravel-redis-va-socketio-7rVRqp2qv4bP
 
 Kiến thức nắm được: - Cách gửi và nhận từ server.
+                    - Hoạt động của socketio
+                    
                     
 
 Todo Sử dụng để tạo chat readtime và thông báo readtime.
 
-Credit Elasticsearch,xampp,sublime Text
+Credit Elasticsearch,xampp,sublime Text, redis
 
 
 
